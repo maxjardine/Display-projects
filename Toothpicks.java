@@ -2,7 +2,7 @@
    Toothpicks. 
    @author Max Jardine
    @date 12/09/2017
-   A java 8 program which draws a field of straight lines that 
+   A Java 7 program which draws a field of straight lines that 
    are perpendicular to each other. The lines are placed relative to their 
    predecessor and the amount of lines is determined by the first argument 
    supplied by the user (MUST BE INT). The length of the lines can be made to 
